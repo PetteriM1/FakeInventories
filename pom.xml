@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nukkitx</groupId>
-    <artifactId>fakeinventories</artifactId>
+    <artifactId>FakeInventories</artifactId>
     <name>Fake Inventories</name>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3-PM1E</version>
 
     <licenses>
         <license>
@@ -68,14 +68,15 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.0</version>
+            <version>1.18.8</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>cn.nukkit</groupId>
             <artifactId>nukkit</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <scope>provided</scope>
+            <scope>system</scope>
+            <systemPath>${basedir}/Nukkit-PM1E.jar</systemPath>
         </dependency>
     </dependencies>
 </project>

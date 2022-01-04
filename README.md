@@ -2,7 +2,7 @@
 
 Easily create fake inventories that players can interact with.
 
-##### [Download](https://github.com/NukkitX/FakeInventories/releases)
+##### [Download](https://github.com/PetteriM1/FakeInventories/releases)
 
 ## Usage
 
@@ -32,12 +32,8 @@ Easily create fake inventories that players can interact with.
         <dependency>
             <groupId>com.nukkitx</groupId>
             <artifactId>fakeinventories</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.3-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
 ```
-
-## Todo
-
-- Add Hopper inventory
