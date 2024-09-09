@@ -1,6 +1,6 @@
 name: FakeInventories
-version: "1.0.3-PM1E"
-api: ["1.0.7"]
+version: "1.0.3-PM1E.2"
+api: ["9.9.9"]
 author: SupremeMortal
 description: Create fake inventories
 main: com.nukkitx.fakeinventories.FakeInventoriesPlugin
