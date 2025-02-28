@@ -23,8 +23,8 @@ Easily create fake inventories that players can interact with.
 ```xml
     <repositories>
         <repository>
-            <id>nukkitx-repo</id>
-            <url>https://repo.nukkitx.com/snapshot/</url>
+            <id>opencollab</id>
+            <url>https://repo.opencollab.dev/maven-snapshots</url>
         </repository>
     </repositories>
 
